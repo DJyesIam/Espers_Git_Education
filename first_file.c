@@ -2,8 +2,8 @@
 
 void main(void)
 {
-	printf("Second Directory");
+	printf("Second Directory\n");
 	printf("It is master\n");
-	printf("Second Code");
-	printf("SHJ Code");
+	printf("Second Code\n");
+	printf("SHJ Code\n");
 }
