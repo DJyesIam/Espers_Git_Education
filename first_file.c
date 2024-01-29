@@ -6,4 +6,6 @@ void main(void)
 	printf("It is master\n");
 	printf("Second Code\n");
 	printf("SHJ Code\n");
+
+	printf("SHJ2 Code")
 }
